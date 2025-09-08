@@ -7,3 +7,4 @@ try:
  print("Diện tích=",dt)
 except:
  print("Lỗi rồi!")
+ 
